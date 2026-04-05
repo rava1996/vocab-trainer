@@ -1,10 +1,17 @@
 import streamlit as st
 import pandas as pd
+import os
 
 st.title("Daily Vocabulary Challenge")
 
-# Load words
-words = pd.read_csv("data/words.csv")
+# Get the current directory of the script
+BASE_DIR = os.path.dirname(__file__)
+
+# Build the full path
+csv_path = os.path.join(BASE_DIR, "data", "words.csv")
+
+# Load the CSV
+words = pd.read_csv(csv_path)
 
 # Choose translation direction
 direction = st.radio(
