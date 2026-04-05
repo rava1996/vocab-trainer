@@ -4,7 +4,7 @@ import pandas as pd
 st.title("Daily Vocabulary Challenge")
 
 # Load words
-words = pd.read_csv("data/words.csv")
+words = pd.read_csv("words.csv")
 
 # Choose translation direction
 direction = st.radio(
