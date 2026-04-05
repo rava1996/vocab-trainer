@@ -1,11 +1,196 @@
-id,english,italian
-1,house,casa
-2,car,macchina
-3,water,acqua
-4,food,cibo
-5,city,cittÃ 
-6,hello,ciao
-7,bass,basso
-8,heaphones,cuffie
-9,glass,bicchiere
-10,wallet,portafoglio
+italian,english
+a domani,see you tomorrow
+arrivederLa,good-bye (pol.)
+bene,well
+buongiorno,good morning| good day| hello
+ci vediamo,see you
+come,how
+Come va?,How's it going?
+domani,tomorrow
+donna,woman
+e,and
+grazie,thank you
+Lei,you (pol.)
+molto,very
+si,yes
+signora,Mrs.| madam| lady
+signore,Mr.| sir| gentleman
+uomo,man
+buon pomeriggio,good afternoon
+buonasera,good evening
+buonanotte,good night
+a presto,see you soon
+benissimo,very well
+certo,certainly| of course
+ciao,hi| bye (fam.)
+Come stai?,How are you? (fam.)
+male,bad
+non,not
+non c'e male,not bad
+presto,soon| early
+stare,to stay| to be
+tu,you (fam.)
+anche (anche io anch'io),too
+essere,to be
+io,I
+lieto,delighted
+mi chiamo,my name is
+mi presento,let me introduced myself
+piacere di fare la Sua conoscenza,a pleasure to make your acquaintance
+Come ti chiamo?,What's your name?
+piacere,a pleasure
+piacere di conoscerti,a pleasure to know you
+devo andare,I have to go
+vero,true| right
+a,at| to
+a destra,to the right
+dove,where
+isolato,block
+mi puo aiutare,can you help me (pol.)
+non,not
+non c'e problema,no problem
+qui,here
+scusi,excuse me (pol.)
+signorina,Miss| Ms.
+via,street
+che (cosa),what
+chi,who
+come,how
+perche,why (perche)
+avventura,adventure
+cliente,customer
+commesso (a),clerk
+leggere ,to read
+di,of
+ecco,here is
+ho bisogno di,I need
+in,in
+libro,book
+molto,a  lot
+nuovo,new
+piacere,to like| to be pleasing to
+prendere,to take
+romanzo,novel
+va bene,OK
+vetrina,store window
+a case mia,in my house
+altro,anythinhg else| other
+avere famo,to be hungry
+bar,coffe place| bar
+barista,bartender
+caffe,coffee
+casa,house
+comprare,to buy
+cornetto,croissant
+da portare via,to take out
+espresso,espresso
+esserci,to be there
+festa,party
+panino,bun
+per favore,please
+prego,you're welcome
+stasera,tonight
+subito,right away
+vorrei,I would like
+allora,then| thus
+bello,beautiful
+commemorativo,commemorative
+costare,to buy
+fancobollo,stamp
+ne prendo,I'll take XYZ of XZY
+ogni,each| every
+quanto,how much
+solo,only
+1 - 10,1 - 10
+11 - 20,11 - 20
+20| 30| 40 etc.,20| 30| 40 etc.
+100| 200 etc.,100| 200 etc.
+1000| 2000 etc.,1000| 2000 etc.
+1000000,1000000
+andiamo,let's go
+appuntamento,appointment
+Che ore sono?/ Che ora e?,What time is it?
+con,with
+in punto,on the dot
+mezzo,half
+nostro,our
+ora,hour
+preciso,precise (precisely)
+tardi,late
+alle/ all',at 1pm| 2pm| etc.
+quarto,quarter
+della matinna,in the morning
+della sera,in the evening
+del pomeriggio,in the afternoon
+mezzogiorno,midday
+mezzanotte,midnight
+circa,around| nearly
+cominciare,to begin| to start
+finire,to finish
+giro,tour
+guida,guide
+oggi,today
+guando,when
+stesso,same
+tornare,to return| to come back
+troppo,too| too much
+turista,tourist (male or female)
+ancora,still| yet
+anno,year
+avere…anni,to be old
+bambino/ bambina,little boy/ little girl
+Buon compleanno.,Happy birthday
+compleanno,birthday
+sbagliare,to make a mistake
+se,if
+sembrare,to seem
+tuo ,your
+essero,to be
+avera,to have
+c'e/ ci sono,there is / there are
+tutti mesi,all months
+caro / cara,dear
+dimenticare,to forget
+essere nato (a),to be born
+ma,but
+marito,husband
+Meno male,Thank goodness
+moglie,wife
+ricordare,to remember
+sempre,always
+terribile,terrible
+tutto,everything
+il primo,1st of 
+tutti giorni della setimana,all days of the week
+abitare,to live| to dwell
+adesso,now
+che,that| which| who
+essere sposato (a),to be married
+liberte,liberty
+ottiomo,excellent
+per,for| through
+qualcuno,someone
+vicino,near
+da,from (for)
+fratello,brother
+prosimo,next
+sapere,to know
+sicuro,sure
+spesso,often
+stare,to stay| to be
+tutti,everyone
+vedere,to see 
+venire,to come
+verra,he/ she will come
+volta,time (occurance)
+andare,to go
+attraverssare,to cross
+dire,to tell/ to say
+diritto,straight ahead
+dovere,to have to| must
+girare,to turn
+li,there
+poi,then
+semaforo,traffic light
+strada,road| street
+andarci,to go there
